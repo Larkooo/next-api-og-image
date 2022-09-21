@@ -39,7 +39,7 @@
     "lib"
   ],
   "peerDependencies": {
-    "chrome-aws-lambda": ">=1.6.3",
+    "@sparticuz/chrome-aws-lambda": ">=17.1.3",
     "next": ">=9.0.0",
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
